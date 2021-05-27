@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="WINDOWS-1250" standalone="no"?>
+<jardesc>
+    <jar path="prog3NHF/tetris.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/prog3NHF/tetris.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=prog3NHF/src&lt;prog3NHF{Menu.java[Menu" manifestLocation="/prog3NHF/src/MANIFEST.mf" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/prog3NHF/modell.ucls"/>
+        <javaElement handleIdentifier="=prog3NHF/src"/>
+        <file path="/prog3NHF/.classpath"/>
+        <file path="/prog3NHF/tetris.jardesc"/>
+        <file path="/prog3NHF/scores.dat"/>
+        <javaElement handleIdentifier="=prog3NHF/test"/>
+        <file path="/prog3NHF/.project"/>
+        <file path="/prog3NHF/pic.jpg"/>
+    </selectedElements>
+</jardesc>
